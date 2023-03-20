@@ -1,4 +1,4 @@
-# Makkajai
+# Makkajai - Problem 1: Sales Tax
 
 # How to compile the project
 
